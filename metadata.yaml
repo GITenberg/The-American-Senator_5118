@@ -1,0 +1,39 @@
+_repo: The-American-Senator_5118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The American Senator is a novel written in 1875 by Anthony Trollope.\
+  \ Although not one of Trollope's better-known works, it is notable for its depictions\
+  \ of rural English life and for its many detailed fox hunting scenes. In its anti-heroine,\
+  \ Arabella Trefoil, it presents a scathing but ultimately sympathetic portrayal\
+  \ of a woman who has abandoned virtually all scruples in her quest for a husband.\
+  \ Through the eponymous Senator, Trollope offers comments on the irrational aspects\
+  \ of English life.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5118'
+  wikidata: Q7713563
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Americans -- Great Britain -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- GITenberg
+title: The American Senator
+url: http://www.gutenberg.org/ebooks/5118
+wikipedia:
+- https://en.wikipedia.org/wiki/The_American_Senator
