@@ -1,5 +1,8 @@
 _repo: The-American-Senator_5118
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -15,6 +18,8 @@ description: "The American Senator is a novel written in 1875 by Anthony Trollop
   \ of a woman who has abandoned virtually all scruples in her quest for a husband.\
   \ Through the eponymous Senator, Trollope offers comments on the irrational aspects\
   \ of English life.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5118#The-American-Senator
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
